@@ -1,0 +1,6 @@
+{
+  "name": "Gestto - Sistema de Agendamento Híbrido & Landing Page",
+  "description": "Plataforma completa para salões, clínicas e atendimento a domicílio com cálculo de taxa por CEP, lembretes via WhatsApp e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
